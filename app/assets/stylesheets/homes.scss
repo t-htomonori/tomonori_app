@@ -1,0 +1,23 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#particles{
+	height: 800px;
+	position: relative;
+}
+.box1{
+	color: white;
+	position: fixed;
+	position: absolute;
+	height: 250px;
+	width: 200px;
+	background-color:black;
+	top: 30%;
+	left: 41%;
+	text-align:center;
+	display: block;
+}
